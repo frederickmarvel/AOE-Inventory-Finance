@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from "@/app/(components)/Navbar"
+import Sidebar from "@/app/(components)/Sidebar"
 
 function DashboardWrapper({children} : {children: React.ReactNode}) {
   return (
